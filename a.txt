@@ -1,2 +1,3 @@
 asdas d
 Entendendo o Head
+EWsta linha foi modificada no ramo master
